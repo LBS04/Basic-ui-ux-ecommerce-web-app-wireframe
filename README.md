@@ -25,7 +25,7 @@ A clean and minimal **e-commerce web app wireframe** designed in **Figma**, show
 ## 📸 Screenshots
 
 ![Wireframe 1](assets/wireframes.png)  
-![Wireframe 2](assets/wireframes2.png)  
+![Wireframe 2](assets/Wireframes 2.png)  
 
 ---
 
